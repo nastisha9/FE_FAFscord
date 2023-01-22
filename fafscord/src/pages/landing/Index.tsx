@@ -1,7 +1,7 @@
 import React from "react";
 import * as S from "./Styles";
-import fafLogo from "../assets/faf_logo.png";
-import ComputerImage from "../assets/computer.svg";
+import fafLogo from "../../assets/faf_logo.png";
+import ComputerImage from "../../assets/computer.svg";
 import NotebookImage from "../../assets/notebook.svg";
 import HeadphonesImage from "../../assets/headphones.svg";
 import Phone1 from "../../assets/phone-1.svg";
